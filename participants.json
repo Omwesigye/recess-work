@@ -1,0 +1,136 @@
+[
+    {
+        "regNo": "001",
+        "firstname": "omwe",
+        "emailAddress": "omwesigyeseezi5@gmail.com",
+        "dob": "2003-11-03",
+        "imagePath": "vnpng",
+        "username": "sezi",
+        "lastname": "von"
+    },
+    {
+        "regNo": "001",
+        "firstname": "von",
+        "emailAddress": "von@gmail.com",
+        "dob": "2003-11-2",
+        "imagePath": "vn.png",
+        "username": "omwe",
+        "lastname": "sezwa"
+    },
+    {
+        "regNo": "001",
+        "firstname": "nak",
+        "emailAddress": "wi@gmail.com",
+        "dob": "2003-11-23",
+        "imagePath": "thhhh",
+        "username": "win",
+        "lastname": "will"
+    },
+    {
+        "regNo": "001",
+        "firstname": "sossy",
+        "emailAddress": "joel@gmail.com",
+        "dob": "2003-11-31",
+        "imagePath": "pic.png",
+        "username": "ariko",
+        "lastname": "joel"
+    },
+    {
+        "regNo": "001",
+        "firstname": "john",
+        "emailAddress": "john@gmail.com",
+        "dob": "2007-11-31",
+        "imagePath": "pic.png",
+        "username": "okello",
+        "lastname": "joel"
+    },
+    {
+        "regNo": "001",
+        "firstname": "derrick",
+        "emailAddress": "ariho@gmail.com",
+        "dob": "2005-12-03",
+        "imagePath": "vn.png",
+        "username": "ariho",
+        "lastname": "hp"
+    },
+    {
+        "regNo": "001",
+        "firstname": "seezi",
+        "emailAddress": "omwesigyeseezi5@gmail.com",
+        "dob": "2003-11-02",
+        "imagePath": "vm.jpj",
+        "register": "register",
+        "username": "omwesigye",
+        "lastname": "omwe"
+    },
+    {
+        "regNo": "001",
+        "firstname": "cryton",
+        "emailAddress": "omwesigyeseezi5@gmail.com",
+        "dob": "2004-12-13",
+        "imagePath": "pk.jpj",
+        "register": "register",
+        "username": "amanya",
+        "lastname": "mpaka"
+    },
+    {
+        "regNo": "001",
+        "firstname": "cryn",
+        "emailAddress": "omwesigyeseezi5@gmail.com",
+        "dob": "2004-12-13",
+        "imagePath": "pk.jpj",
+        "register": "register",
+        "username": "namanya",
+        "lastname": "mpaka"
+    },
+    {
+        "regNo": "001",
+        "firstname": "keith",
+        "emailAddress": "keith@gmail.com",
+        "dob": "2006-11-11",
+        "imagePath": "kt.jpj",
+        "register": "register",
+        "username": "nomwesigwa",
+        "lastname": "kith"
+    },
+    {
+        "regNo": "001",
+        "firstname": "kim",
+        "emailAddress": "jodan@gmail.com",
+        "dob": "2004-11-20",
+        "imagePath": "voon.png",
+        "register": "register",
+        "username": "jodan",
+        "lastname": "samuel"
+    },
+    {
+        "regNo": "001",
+        "firstname": "john",
+        "emailAddress": "okello@gmail.com",
+        "dob": "2009-11-10",
+        "imagePath": "jmn.png",
+        "register": "register",
+        "username": "okello",
+        "lastname": "samuel"
+    },
+    {
+        "regNo": "001",
+        "firstname": "allan",
+        "emailAddress": "paul@gmail.com",
+        "dob": "2010-11-10",
+        "imagePath": "jjj.png",
+        "register": "register",
+        "username": "paul",
+        "lastname": "sam"
+    },
+    {
+        "regNo": "001",
+        "firstname": "otim",
+        "emailAddress": "owalu@gmail.com",
+        "dob": "2000-12-12",
+        "imagePath": "hoh.jpg",
+        "register": "register",
+        "username": "david",
+        "lastname": "owalo"
+    }
+]
